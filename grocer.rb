@@ -83,7 +83,7 @@ def apply_clearance(cart)
 end
 
 def checkout(cart, coupons)
-  consolidate_cart(cart) = consolodated_cart
+  consolodated_cart = consolidate_cart(cart)
   counter = 0 
   while 
   
