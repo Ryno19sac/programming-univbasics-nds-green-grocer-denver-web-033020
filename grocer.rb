@@ -83,7 +83,10 @@ def apply_clearance(cart)
 end
 
 def checkout(cart, coupons)
+  counter = 0 
+  while 
   
+end 
   
   # Consult README for inputs and outputs
   #
