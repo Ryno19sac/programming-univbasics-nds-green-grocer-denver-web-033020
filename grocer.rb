@@ -93,7 +93,7 @@ def checkout(cart, coupons)
  total += final_cart[counter][:price] * final_cart[coutner][:count] 
   counter +=1
 end
-
+if total > 100
 end 
   
   # Consult README for inputs and outputs
