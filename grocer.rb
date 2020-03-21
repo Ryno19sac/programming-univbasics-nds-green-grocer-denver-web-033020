@@ -84,7 +84,7 @@ end
 
 def checkout(cart, coupons)
   consolodated_cart = consolidate_cart(cart)
-  couponed_cart
+  couponed_cart = apply_coupons
   counter = 0 
   while 
   
