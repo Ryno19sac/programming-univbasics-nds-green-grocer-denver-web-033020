@@ -96,7 +96,8 @@ end
 if total > 100
   total -= total - 0.10
 end 
-  
+  total
+end 
   # Consult README for inputs and outputs
   #
   # This method should call
